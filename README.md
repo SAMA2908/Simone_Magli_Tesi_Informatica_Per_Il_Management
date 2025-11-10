@@ -43,4 +43,8 @@ Un'analisi statistica condotta su **30 ripetizioni** (k-fold) ha confermato la m
 
 **Conclusione:** Per questo dataset, la regressione lineare è risultata preferibile per la sua maggiore semplicità, interpretabilità e per le performance predittive sostanzialmente equivalenti, se non leggermente superiori, a quelle di un modello più complesso come SVR.
 
+***
+
+## Struttura della Repository
 Simone_Magli_Tesi_Informatica_Per_Il_Management/ ├── Tesi/ │ ├── ProgettoNew.py # Codice sorgente del progetto in Python │ ├── student_lifestyle_dataset.csv # Dataset utilizzato │ ├── simone.magli.presentazione.tesi.pdf # Presentazione della tesi │ ├── tesi_magli_FINAL.pdf # Testo integrale della tesi │ └── image/ # Cartella contenente tutti i grafici e i risultati └── README.md
+***
